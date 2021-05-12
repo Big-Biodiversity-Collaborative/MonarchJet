@@ -1,2 +1,3 @@
 # MonarchJet
-Annual monarch migration and jet stream
+
+Code and data for analyses of annual monarch migration and jet stream
